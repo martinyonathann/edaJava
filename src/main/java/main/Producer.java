@@ -1,4 +1,4 @@
-package Procedure.main;
+package main;
 
 import Procedure.model.Address;
 import Procedure.model.User;
